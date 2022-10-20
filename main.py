@@ -18,3 +18,5 @@
 # hello my name is Thomas
 # hello my name is Jirehl
 # hello my name is Zuhair
+# hello my name is Amy
+# hello my name is Grace
